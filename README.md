@@ -1,6 +1,8 @@
 thoughtbot dotfiles
 ===================
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/dotfiles-5.svg)](https://www.guardrails.io)
+
 ![prompt](http://images.thoughtbot.com/thoughtbot-dotfiles-prompt.png)
 
 Requirements
